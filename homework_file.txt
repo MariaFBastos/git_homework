@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 adding something
+=======
+<<<<<<< HEAD
+adding new line
+=======
+>>>>>>> fix_something
+>>>>>>> master
 fixing stuff
 my homework
