@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 adding new line
+=======
+>>>>>>> fix_something
 fixing stuff
 my homework
